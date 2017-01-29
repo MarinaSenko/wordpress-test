@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04bff277-6b8f-4905-8cdc-edbbdfcfbd74" name="Default" comment="" />
+    <ignored path="sandbox.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sandbox" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="readme.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/reset.css" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/task/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/readme.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="220" />
+    <option name="y" value="23" />
+    <option name="width" value="1060" />
+    <option name="height" value="719" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04bff277-6b8f-4905-8cdc-edbbdfcfbd74" name="Default" comment="" />
+      <created>1484848228774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484848228774</updated>
+      <workItem from="1484848229959" duration="17875000" />
+      <workItem from="1484868599771" duration="221000" />
+      <workItem from="1484869088640" duration="17000" />
+      <workItem from="1484899041687" duration="5788000" />
+      <workItem from="1484905443116" duration="507000" />
+      <workItem from="1484906103442" duration="110000" />
+      <workItem from="1484907981697" duration="231000" />
+      <workItem from="1485189136551" duration="10583000" />
+      <workItem from="1485340370273" duration="10159000" />
+      <workItem from="1485424050377" duration="5922000" />
+      <workItem from="1485588535706" duration="1328000" />
+      <workItem from="1485690993570" duration="2515000" />
+      <workItem from="1485719973205" duration="1082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56338000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="220" y="23" width="1060" height="719" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15754718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1891473" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/script.js" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/reset.css" />
+    <entry file="file://$PROJECT_DIR$/script.js" />
+    <entry file="file://$PROJECT_DIR$/task/index.php" />
+    <entry file="file://$PROJECT_DIR$/images/slide01_01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1380061092000" expanded="false" signature="9:188" ph=" Front to the WordPress application. This file doesn't do anything, but loads ..." />
+            <marker date="1380061092000" expanded="true" signature="195:275" ph=" Tells WordPress to load the WordPress theme and output it. ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-activate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475004988000" expanded="false" signature="9:199" ph=" Confirms that the activation key that is sent in an email after a user signs ..." />
+            <marker date="1475004988000" expanded="true" signature="408:456" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="592:665" ph=" Fires before the Site Activation page is loaded. ..." />
+            <marker date="1475004988000" expanded="true" signature="704:801" ph=" Adds an action hook specific to this page. ..." />
+            <marker date="1475004988000" expanded="true" signature="835:1012" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="840:972" ph=" Fires before the Site Activation page is loaded. ..." />
+            <marker date="1475004988000" expanded="true" signature="1065:1122" ph=" Loads styles specific to this page. ..." />
+            <marker date="1475004988000" expanded="true" signature="1162:1418" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="1190:1409" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="1550:5286" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="1587:5279" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="1648:2136" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="1822:2126" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="1829:1974" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="1996:2116" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2144:5267" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2281:4084" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2384:3925" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2582:3229" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2595:3222" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2693:3081" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2808:2815" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="2819:2826" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="3237:3903" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="3250:3896" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="3363:3748" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="3475:3482" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="3486:3493" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="3933:4080" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="4092:5264" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="4323:4522" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="4589:5255" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="4725:4938" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="4954:5254" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="4977:5244" ph="..." />
+            <marker date="1475004988000" expanded="true" signature="5318:5410" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/taxonomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1481860232000" expanded="false" signature="9:81" ph=" Core Taxonomy API ..." />
+            <marker date="1481860232000" expanded="true" signature="120:476" ph=" Creates the initial taxonomies. ..." />
+            <marker date="1481860232000" expanded="true" signature="517:4297" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="572:662" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="670:1527" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="677:826" ph=" Filters the post formats rewrite base. ..." />
+            <marker date="1481860232000" expanded="true" signature="923:1523" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="947:1189" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="1215:1432" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="1549:2083" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="1576:2081" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="1794:1963" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="2106:2622" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="2133:2620" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="2343:2508" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="2645:2967" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="2681:2965" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="2750:2839" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="2990:3893" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="3022:3891" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="3070:3597" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="3626:3777" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="3916:4294" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="3946:4292" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="4014:4114" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="4303:5094" ph=" Retrieves a list of registered taxonomy names or objects. ..." />
+            <marker date="1481860232000" expanded="true" signature="5179:5328" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="5334:6072" ph=" Return the names or objects of the taxonomies which are registered for the requested object or object type, such as ..." />
+            <marker date="1481860232000" expanded="true" signature="6137:6650" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="6191:6326" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="6444:6626" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="6511:6623" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="6656:7075" ph=" Retrieves the taxonomy object of $taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="7114:7231" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="7237:7512" ph=" Checks that the taxonomy name exists. ..." />
+            <marker date="1481860232000" expanded="true" signature="7554:7624" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="7630:8032" ph=" Whether the taxonomy object is hierarchical. ..." />
+            <marker date="1481860232000" expanded="true" signature="8081:8207" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="8213:15220" ph=" Creates or modifies a taxonomy object. ..." />
+            <marker date="1481860232000" expanded="true" signature="15295:16287" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="15477:15717" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="15920:16196" ph=" Fires after a taxonomy is registered. ..." />
+            <marker date="1481860232000" expanded="true" signature="16293:16666" ph=" Unregisters a taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="16712:17430" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="16753:16827" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="16966:17071" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="17247:17362" ph=" Fires after a taxonomy is unregistered. ..." />
+            <marker date="1481860232000" expanded="true" signature="17436:19739" ph=" Builds an object with all taxonomy labels out of a taxonomy object ..." />
+            <marker date="1481860232000" expanded="true" signature="19780:22366" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="20122:21590" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="21807:22126" ph=" Filters the labels of a specific taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="22372:22675" ph=" Add an already registered taxonomy to an object type. ..." />
+            <marker date="1481860232000" expanded="true" signature="22748:23171" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="23177:23485" ph=" Remove an already registered taxonomy from an object type. ..." />
+            <marker date="1481860232000" expanded="true" signature="23561:23915" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="23940:25230" ph=" Retrieve object_ids of valid taxonomy and term. ..." />
+            <marker date="1481860232000" expanded="true" signature="25306:26319" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="25356:25392" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="25429:25469" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="25518:25639" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="25560:25636" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="26015:26250" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="26016:26243" ph="SELECT tr.ob... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1481860232000" expanded="true" signature="26276:26296" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="26325:26587" ph=" Given a taxonomy query, generates SQL to be appended to a main query. ..." />
+            <marker date="1481860232000" expanded="true" signature="26662:26784" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="26790:29496" ph=" Get all Term data from database by Term ID. ..." />
+            <marker date="1481860232000" expanded="true" signature="29578:31306" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="29603:29666" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="29722:29796" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="29833:29853" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="29886:30106" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="29947:30039" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="30047:30103" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="30114:30170" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="30204:30223" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="30246:30263" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="30270:30482" ph=" Filters a term. ..." />
+            <marker date="1481860232000" expanded="true" signature="30548:30858" ph=" Filters a taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="31043:31062" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="31176:31207" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="31240:31287" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="31312:33332" ph=" Get all Term data from database by Term field and data. ..." />
+            <marker date="1481860232000" expanded="true" signature="33426:34789" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="33578:33596" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="33694:33793" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="33824:33907" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="33950:34097" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="34105:34262" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="34222:34243" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="34307:34429" ph="SELECT t.*, ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="34647:34680" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="34795:35298" ph=" Merge all term children into a single array of their IDs. ..." />
+            <marker date="1481860232000" expanded="true" signature="35352:35860" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="35393:35467" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="35680:35838" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="35710:35726" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="35866:36548" ph=" Get sanitized Term field. ..." />
+            <marker date="1481860232000" expanded="true" signature="36631:36896" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="36902:37275" ph=" Sanitizes Term for editing. ..." />
+            <marker date="1481860232000" expanded="true" signature="37323:37495" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="37501:46067" ph=" Retrieve the terms in a given taxonomy or list of taxonomies. ..." />
+            <marker date="1481860232000" expanded="true" signature="46127:47802" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="46184:46456" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="46669:46777" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="46785:46943" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="46887:46940" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="46984:47159" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="47031:47156" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="47074:47152" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="47288:47307" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="47314:47678" ph=" Filters the found terms. ..." />
+            <marker date="1481860232000" expanded="true" signature="47808:48290" ph=" Adds metadata to a term. ..." />
+            <marker date="1481860232000" expanded="true" signature="48370:48859" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="48461:48479" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="48521:48658" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="48782:48840" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="48865:49189" ph=" Removes metadata matching criteria from a term. ..." />
+            <marker date="1481860232000" expanded="true" signature="49260:49570" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="49351:49369" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="49491:49549" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="49576:50094" ph=" Retrieves metadata for a term. ..." />
+            <marker date="1481860232000" expanded="true" signature="50161:50330" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="50252:50270" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="50336:50971" ph=" Updates term metadata. ..." />
+            <marker date="1481860232000" expanded="true" signature="51055:51557" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="51146:51164" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="51206:51343" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="51478:51536" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="51563:51981" ph=" Updates metadata cache for list of term IDs. ..." />
+            <marker date="1481860232000" expanded="true" signature="52029:52183" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="52120:52132" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="52189:52876" ph=" Check if Term exists. ..." />
+            <marker date="1481860232000" expanded="true" signature="52942:54869" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="52971:53014" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="53034:53165" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="53193:53483" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="53767:54574" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="53800:53973" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="54076:54294" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="54092:54284" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="54093:54262" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="54342:54570" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="54358:54560" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="54359:54533" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="54625:54685" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="54772:54837" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="54875:55287" ph=" Check if a term is an ancestor of another term. ..." />
+            <marker date="1481860232000" expanded="true" signature="55349:55727" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="55733:56399" ph=" Sanitize Term all fields. ..." />
+            <marker date="1481860232000" expanded="true" signature="56466:57157" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="56764:57055" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="56786:56915" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="56923:57052" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="57163:58065" ph=" Cleanse the field value in the term based on the context. ..." />
+            <marker date="1481860232000" expanded="true" signature="58145:62315" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="58288:58350" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="58425:59371" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="58432:58744" ph=" Filters a term field to edit before it is sanitized. ..." />
+            <marker date="1481860232000" expanded="true" signature="58832:59171" ph=" Filters the taxonomy field to edit before it is sanitized. ..." />
+            <marker date="1481860232000" expanded="true" signature="59402:60445" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="59409:59681" ph=" Filters a term field value before it is sanitized. ..." />
+            <marker date="1481860232000" expanded="true" signature="59758:60037" ph=" Filters a taxonomy field before it is sanitized. ..." />
+            <marker date="1481860232000" expanded="true" signature="60157:60441" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="60164:60374" ph=" Filters the category nicename before it is sanitized. ..." />
+            <marker date="1481860232000" expanded="true" signature="60477:61161" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="60484:60744" ph=" Filters the term field for use in RSS. ..." />
+            <marker date="1481860232000" expanded="true" signature="60821:61093" ph=" Filters the taxonomy field for use in RSS. ..." />
+            <marker date="1481860232000" expanded="true" signature="61169:62170" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="61213:61594" ph=" Filters the term field sanitized for display. ..." />
+            <marker date="1481860232000" expanded="true" signature="61687:62086" ph=" Filters the taxonomy field sanitized for display. ..." />
+            <marker date="1481860232000" expanded="true" signature="62206:62237" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="62268:62297" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="62321:62788" ph=" Count how many terms are in Taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="62846:63148" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="62998:63079" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="63154:63559" ph=" Will unlink the object from the taxonomy or taxonomies. ..." />
+            <marker date="1481860232000" expanded="true" signature="63635:63986" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="63784:63984" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="63992:65178" ph=" Removes a term from the database. ..." />
+            <marker date="1481860232000" expanded="true" signature="65243:70615" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="65483:65633" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="65714:65827" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="65799:65824" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="65871:65916" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="65923:66116" ph=" Fires when deleting a term, before any modifications are made to posts or terms. ..." />
+            <marker date="1481860232000" expanded="true" signature="66259:67391" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="66424:66500" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="66602:66798" ph=" Fires immediately before a term to delete's children are reassigned a parent. ..." />
+            <marker date="1481860232000" expanded="true" signature="67137:67332" ph=" Fires immediately after a term to delete's children are reassigned a parent. ..." />
+            <marker date="1481860232000" expanded="true" signature="67593:67668" ph="SELECT objec... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1481860232000" expanded="true" signature="67724:68185" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="67879:67911" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="67919:68086" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="68464:68518" ph="SELECT meta_... ${$wpdb-&gt;termmeta}" />
+            <marker date="1481860232000" expanded="true" signature="68570:68614" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="68621:68749" ph=" Fires immediately before a term taxonomy ID is deleted. ..." />
+            <marker date="1481860232000" expanded="true" signature="68882:69009" ph=" Fires immediately after a term taxonomy ID is deleted. ..." />
+            <marker date="1481860232000" expanded="true" signature="69145:69205" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="69324:69851" ph=" Fires after a term is deleted from the database and the cache is cleaned. ..." />
+            <marker date="1481860232000" expanded="true" signature="69942:70518" ph=" Fires after a term in a specific taxonomy is deleted. ..." />
+            <marker date="1481860232000" expanded="true" signature="70621:70891" ph=" Deletes one existing category. ..." />
+            <marker date="1481860232000" expanded="true" signature="70934:70982" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="70988:72000" ph=" Retrieves the terms associated with the given object(s), in the supplied taxonomies. ..." />
+            <marker date="1481860232000" expanded="true" signature="72076:74080" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="72272:72385" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="72645:73140" ph=" Filters the terms for a given object or objects. ..." />
+            <marker date="1481860232000" expanded="true" signature="73325:73988" ph=" Filters the terms for a given object or objects. ..." />
+            <marker date="1481860232000" expanded="true" signature="74086:75906" ph=" Add a new term to the database. ..." />
+            <marker date="1481860232000" expanded="true" signature="75971:83935" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="76026:76100" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="76106:76306" ph=" Filters a term before it is sanitized and inserted into the database. ..." />
+            <marker date="1481860232000" expanded="true" signature="76402:76420" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="76461:76533" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="76564:76653" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="76860:76942" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="77397:77434" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="77442:77469" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="77517:78058" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="77622:77732" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="77773:78055" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="77779:77873" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="77909:77937" ph="SELECT MAX(t... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="77976:78050" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78011:78048" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78064:78220" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78250:78316" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78268:78314" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78323:78448" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78495:78649" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78536:78646" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78600:78642" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78673:79564" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78804:79561" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="78854:79409" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="79066:79106" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="79189:79229" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="79259:79404" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="79417:79557" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="79678:79932" ph=" Filters term data before it is inserted into the database. ..." />
+            <marker date="1481860232000" expanded="true" signature="80066:80180" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="80360:80709" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="80737:80935" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="80755:80910" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="80963:81034" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="81196:81548" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="81585:81881" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="81601:81879" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="81603:81832" ph="SELECT t.ter... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="81909:82271" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="82278:82517" ph=" Fires immediately after a new term is created, before the term cache is cleaned. ..." />
+            <marker date="1481860232000" expanded="true" signature="82583:82873" ph=" Fires after a new term is created for a specific taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="82935:83091" ph=" Filters the term ID after a new term is created. ..." />
+            <marker date="1481860232000" expanded="true" signature="83205:83441" ph=" Fires after a new term is created, and after the term cache has been cleaned. ..." />
+            <marker date="1481860232000" expanded="true" signature="83508:83808" ph=" Fires after a new term in a specific taxonomy is created, and after the term ..." />
+            <marker date="1481860232000" expanded="true" signature="83941:84994" ph=" Create Term and Taxonomy Relationships. ..." />
+            <marker date="1481860232000" expanded="true" signature="85077:88994" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="85167:85241" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="85562:87014" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="85661:85800" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="86002:86103" ph="SELECT term_... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1481860232000" expanded="true" signature="86150:86435" ph=" Fires immediately before an object-term relationship is added. ..." />
+            <marker date="1481860232000" expanded="true" signature="86627:86911" ph=" Fires immediately after an object-term relationship is added. ..." />
+            <marker date="1481860232000" expanded="true" signature="87107:87661" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="87189:87658" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="87315:87434" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="87630:87654" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="87745:88390" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="88085:88256" ph="INSERT INTO ${$wpdb-&gt;term_relationships}... " />
+            <marker date="1481860232000" expanded="true" signature="88460:88878" ph=" Fires after an object's terms have been set. ..." />
+            <marker date="1481860232000" expanded="true" signature="89000:89366" ph=" Add term(s) associated with a given object. ..." />
+            <marker date="1481860232000" expanded="true" signature="89432:89501" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="89507:89952" ph=" Remove term(s) associated with a given object. ..." />
+            <marker date="1481860232000" expanded="true" signature="90021:91794" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90111:90185" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90218:90248" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90310:90635" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90347:90363" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90423:90521" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90499:90517" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90560:90585" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90655:91776" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="90717:91015" ph=" Fires immediately before an object-term relationship is deleted. ..." />
+            <marker date="1481860232000" expanded="true" signature="91138:91233" ph="DELETE FROM " />
+            <marker date="1481860232000" expanded="true" signature="91322:91621" ph=" Fires immediately after an object-term relationship is deleted. ..." />
+            <marker date="1481860232000" expanded="true" signature="91800:92698" ph=" Will make slug unique, if it isn't already. ..." />
+            <marker date="1481860232000" expanded="true" signature="92747:95081" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="93022:93049" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="93055:93180" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="93303:93707" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="93369:93704" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="93596:93611" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="93793:94054" ph=" Filters whether the proposed unique term slug is bad. ..." />
+            <marker date="1481860232000" expanded="true" signature="94146:94749" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="94172:94203" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="94211:94746" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="94278:94341" ph="SELECT slug ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="94407:94452" ph="SELECT slug ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="94501:94742" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="94524:94691" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="94624:94669" ph="SELECT slug ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="94756:95000" ph=" Filters the unique term slug. ..." />
+            <marker date="1481860232000" expanded="true" signature="95087:96360" ph=" Update term based on arguments provided. ..." />
+            <marker date="1481860232000" expanded="true" signature="96428:103387" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="96485:96559" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="96704:96722" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="96742:96805" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="97429:97518" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="97606:97688" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="97745:97802" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="97810:97837" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="97984:98570" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="98089:98199" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="98240:98522" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="98246:98340" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="98376:98404" ph="SELECT MAX(t... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="98443:98517" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="98478:98515" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="98577:99024" ph=" Filters the term parent. ..." />
+            <marker date="1481860232000" expanded="true" signature="99279:99695" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="99449:99507" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="99515:99692" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="99729:99926" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="99747:99902" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="100081:100107" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="100114:100279" ph=" Fires immediately before the given terms are edited. ..." />
+            <marker date="1481860232000" expanded="true" signature="100387:100674" ph=" Filters term data before it is updated in the database. ..." />
+            <marker date="1481860232000" expanded="true" signature="100845:100964" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="100971:101134" ph=" Fires immediately after the given terms are edited. ..." />
+            <marker date="1481860232000" expanded="true" signature="101193:101378" ph=" Fires immediate before a term-taxonomy relationship is updated. ..." />
+            <marker date="1481860232000" expanded="true" signature="101580:101766" ph=" Fires immediately after a term-taxonomy relationship is updated. ..." />
+            <marker date="1481860232000" expanded="true" signature="101831:102070" ph=" Fires after a term has been updated, but before the term cache has been cleaned. ..." />
+            <marker date="1481860232000" expanded="true" signature="102134:102437" ph=" Fires after a term in a specific taxonomy has been updated, but before the term ..." />
+            <marker date="1481860232000" expanded="true" signature="102666:102898" ph=" Fires after a term has been updated, and the term cache has been cleaned. ..." />
+            <marker date="1481860232000" expanded="true" signature="102964:103261" ph=" Fires after a term for a specific taxonomy has been updated, and the term ..." />
+            <marker date="1481860232000" expanded="true" signature="103393:103611" ph=" Enable or disable term counting. ..." />
+            <marker date="1481860232000" expanded="true" signature="103660:103847" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="103712:103827" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="103853:104500" ph=" Updates the amount of terms in taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="104577:105142" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="104631:104777" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="104686:104774" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="104906:105084" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="105148:105377" ph=" Perform term count update immediately. ..." />
+            <marker date="1481860232000" expanded="true" signature="105436:106191" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="105565:105638" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="105646:106135" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="105743:105857" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="105937:106041" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="106049:106132" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="106213:106727" ph=" Removes the taxonomy relationship to terms from the cache. ..." />
+            <marker date="1481860232000" expanded="true" signature="106791:107417" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="106886:106898" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="107057:107158" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="107098:107155" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="107165:107346" ph=" Fires after the object term cache has been cleaned. ..." />
+            <marker date="1481860232000" expanded="true" signature="107423:108026" ph=" Will remove all of the term ids from the cache. ..." />
+            <marker date="1481860232000" expanded="true" signature="108102:109674" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108204:108216" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108351:108765" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108458:108544" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="108605:108719" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108773:108925" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108848:108922" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108877:108918" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108967:109616" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="108994:109192" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="109200:109543" ph=" Fires once after each taxonomy's term cache has been cleaned. ..." />
+            <marker date="1481860232000" expanded="true" signature="109680:110441" ph=" Retrieves the taxonomy relationship to the term object id. ..." />
+            <marker date="1481860232000" expanded="true" signature="110494:111261" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="110661:110679" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="110836:111003" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="110870:110910" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="110951:111000" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="111123:111242" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="111198:111218" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="111267:111905" ph=" Updates the cache for the given term object ID(s). ..." />
+            <marker date="1481860232000" expanded="true" signature="111970:113151" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112245:112395" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112286:112392" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112355:112388" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112467:112593" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112493:112591" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112661:112738" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112767:112988" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112808:112985" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="112859:112981" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="113036:113149" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="113082:113146" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="113157:113370" ph=" Updates Terms to Taxonomy in cache. ..." />
+            <marker date="1481860232000" expanded="true" signature="113427:113676" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="113466:113674" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="113700:113912" ph=" Retrieves children of taxonomy as Term IDs. ..." />
+            <marker date="1481860232000" expanded="true" signature="113958:114418" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="114286:114345" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="114424:115587" ph=" Get the subset of $terms that are descendants of $term_id. ..." />
+            <marker date="1481860232000" expanded="true" signature="115673:116827" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="116038:116070" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="116111:116804" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="116159:116269" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="116412:116428" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="116467:116801" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="116833:117230" ph=" Add count of children to parent count. ..." />
+            <marker date="1481860232000" expanded="true" signature="117282:119142" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="117638:117744" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="117930:118199" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="117931:118198" ph="SELECT objec... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1481860232000" expanded="true" signature="118233:118400" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="118505:118978" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="118637:118975" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="118769:118889" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="118956:118971" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="119148:119488" ph=" Adds any terms from the given IDs to the cache that do not already exist in cache. ..." />
+            <marker date="1481860232000" expanded="true" signature="119560:120051" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="119675:120049" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="119712:119907" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="119723:119850" ph="SELECT t.*, ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="119998:120046" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="120085:120469" ph=" Will update term count based on object types of the current taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="120527:122272" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="120831:120910" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="121054:122270" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="121227:121590" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="121243:121588" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="121245:121579" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1481860232000" expanded="true" signature="121444:121506" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1481860232000" expanded="true" signature="121651:121915" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="121667:121913" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="121669:121904" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1481860232000" expanded="true" signature="122278:122592" ph=" Will update term count based on number of objects. ..." />
+            <marker date="1481860232000" expanded="true" signature="122653:123195" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="122708:123193" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="122753:122827" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1481860232000" expanded="true" signature="123201:124674" ph=" Create a new term for a term_taxonomy item that currently shares its term ..." />
+            <marker date="1481860232000" expanded="true" signature="124753:129189" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="124801:124876" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="124919:125025" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="125156:125252" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="125317:125338" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="125344:125558" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="125612:125680" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="125742:125769" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="125894:126014" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="125945:125996" ph="SELECT t.* F... ${$wpdb-&gt;terms}" />
+            <marker date="1481860232000" expanded="true" signature="126041:126151" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="126220:126323" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="126456:126569" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="126650:126792" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="126703:126765" ph="SELECT * FRO... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="126848:126933" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="127013:127260" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="127062:127257" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="127080:127193" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="127268:127425" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="127567:127627" ph="SELECT taxon... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="127677:127804" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="127742:127801" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="127923:128212" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="128034:128080" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="128329:128533" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="128333:128530" ph="SELECT tt.te... $" />
+            <marker date="1481860232000" expanded="true" signature="128567:128629" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="128636:129059" ph=" Fires after a previously shared taxonomy term is split into two separate terms. ..." />
+            <marker date="1481860232000" expanded="true" signature="129195:129324" ph=" Splits a batch of shared taxonomy terms. ..." />
+            <marker date="1481860232000" expanded="true" signature="129361:132371" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="129642:129963" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="129849:129960" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="130230:130435" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="130234:130432" ph="SELECT tt.te... $" />
+            <marker date="1481860232000" expanded="true" signature="130500:130603" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="130882:130975" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="131161:131237" ph="SELECT * FRO... $" />
+            <marker date="1481860232000" expanded="true" signature="131468:132102" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="131627:131683" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="131736:131782" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="131905:131952" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="132214:132285" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="132377:132568" ph=" In order to avoid the _wp_batch_split_terms() job being accidentally removed, ..." />
+            <marker date="1481860232000" expanded="true" signature="132619:132826" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="132734:132824" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="132832:133267" ph=" Check default categories when a term gets split to see if any of them need to be updated. ..." />
+            <marker date="1481860232000" expanded="true" signature="133366:133619" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="133400:133412" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="133519:133617" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="133568:133614" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="133625:134116" ph=" Check menu items when a term gets split to see if any of them need to be updated. ..." />
+            <marker date="1481860232000" expanded="true" signature="134216:134862" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="134260:134712" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="134276:134710" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="134280:134682" ph="SELECT m1.po... $" />
+            <marker date="1481860232000" expanded="true" signature="134735:134860" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="134773:134857" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="134868:135273" ph=" If the term being split is a nav_menu, change associations. ..." />
+            <marker date="1481860232000" expanded="true" signature="135373:135675" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="135408:135420" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="135540:135621" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="135572:135618" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="135681:135928" ph=" Get data about terms that previously shared a single term_id, but have since been split. ..." />
+            <marker date="1481860232000" expanded="true" signature="135976:136161" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="136099:136142" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="136167:136653" ph=" Get the new term ID corresponding to a previously split term. ..." />
+            <marker date="1481860232000" expanded="true" signature="136711:136897" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="136828:136876" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="136903:137182" ph=" Determine whether a term is shared between multiple taxonomies. ..." />
+            <marker date="1481860232000" expanded="true" signature="137225:137467" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="137299:137317" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="137366:137426" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1481860232000" expanded="true" signature="137473:137864" ph=" Generate a permalink for a taxonomy term archive. ..." />
+            <marker date="1481860232000" expanded="true" signature="137916:140194" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="137966:138103" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="137993:138037" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="138045:138100" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="138409:138642" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="138650:139284" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="138689:139138" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="138843:138950" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="139146:139210" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="139344:139613" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="139351:139539" ph=" Filters the tag link. ..." />
+            <marker date="1481860232000" expanded="true" signature="139651:139935" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="139658:139856" ph=" Filters the category link. ..." />
+            <marker date="1481860232000" expanded="true" signature="139942:140124" ph=" Filters the term link. ..." />
+            <marker date="1481860232000" expanded="true" signature="140200:141044" ph=" Display the taxonomies of a post with available options. ..." />
+            <marker date="1481860232000" expanded="true" signature="141091:141317" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="141111:141179" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="141323:142111" ph=" Retrieve all taxonomies associated with a post. ..." />
+            <marker date="1481860232000" expanded="true" signature="142173:143333" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142226:142416" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142240:142414" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142462:142486" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142547:143310" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142621:142652" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142684:142712" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142748:142790" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142831:142883" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="142971:143043" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="143097:143198" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="143217:143307" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="143339:143528" ph=" Retrieve all taxonomies of a post with just the names. ..." />
+            <marker date="1481860232000" expanded="true" signature="143574:143642" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="143648:144317" ph=" Determine if the given object is associated with any of the given terms. ..." />
+            <marker date="1481860232000" expanded="true" signature="144388:145800" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="144597:144879" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="144745:144773" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="145238:145782" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="145352:145371" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="145390:145779" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="145631:145652" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="145806:146090" ph=" Determine if the given object type is associated with the given taxonomy. ..." />
+            <marker date="1481860232000" expanded="true" signature="146152:146301" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="146237:146255" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="146307:146943" ph=" Get an array of ancestor IDs for a given object. ..." />
+            <marker date="1481860232000" expanded="true" signature="147028:148320" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147115:147278" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147307:147480" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147359:147394" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147441:147477" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147522:147769" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147674:147766" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147814:147863" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="147870:148221" ph=" Filters a given object's ancestors. ..." />
+            <marker date="1481860232000" expanded="true" signature="148326:148505" ph=" Returns the term's parent's term_ID. ..." />
+            <marker date="1481860232000" expanded="true" signature="148572:148705" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="148656:148674" ph="..." />
+            <marker date="1481860232000" expanded="true" signature="148711:149176" ph=" Checks the given subset of the term hierarchy for hierarchy loops. ..." />
+            <marker date="1481860232000" expanded="true" signature="149255:149867" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-http-requests-response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475632288000" expanded="false" signature="9:117" ph=" HTTP API: WP_HTTP_Requests_Response class ..." />
+            <marker date="1475632288000" expanded="true" signature="124:241" ph=" Core wrapper object for a Requests_Response for standardisation. ..." />
+            <marker date="1475632288000" expanded="true" signature="302:4524" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="307:410" ph=" Requests Response object. ..." />
+            <marker date="1475632288000" expanded="true" signature="440:547" ph=" Filename the response was saved to. ..." />
+            <marker date="1475632288000" expanded="true" signature="577:770" ph=" Constructor. ..." />
+            <marker date="1475632288000" expanded="true" signature="850:914" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="921:1064" ph=" Retrieves the response object for the request. ..." />
+            <marker date="1475632288000" expanded="true" signature="1107:1135" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="1142:1390" ph=" Retrieves headers associated with the response. ..." />
+            <marker date="1475632288000" expanded="true" signature="1425:1753" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="1605:1728" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="1639:1679" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="1687:1724" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="1760:1897" ph=" Sets all header values. ..." />
+            <marker date="1475632288000" expanded="true" signature="1942:2016" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="2023:2316" ph=" Sets a single HTTP header. ..." />
+            <marker date="1475632288000" expanded="true" signature="2377:2495" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="2397:2446" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="2502:2648" ph=" Retrieves the HTTP return code for the response. ..." />
+            <marker date="1475632288000" expanded="true" signature="2682:2723" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="2730:2850" ph=" Sets the 3-digit HTTP status code. ..." />
+            <marker date="1475632288000" expanded="true" signature="2891:2943" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="2950:3063" ph=" Retrieves the response data. ..." />
+            <marker date="1475632288000" expanded="true" signature="3095:3129" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="3136:3249" ph=" Sets the response data. ..." />
+            <marker date="1475632288000" expanded="true" signature="3288:3323" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="3330:3471" ph=" Retrieves cookies from the response. ..." />
+            <marker date="1475632288000" expanded="true" signature="3506:4020" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="3580:3997" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="3623:3991" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="4027:4193" ph=" Converts the object to a WP_Http response array. ..." />
+            <marker date="1475632288000" expanded="true" signature="4225:4522" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="4241:4518" ph="..." />
+            <marker date="1475632288000" expanded="true" signature="4335:4441" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
